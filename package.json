@@ -10,8 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex1287/server-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alex1287/server-express/issues"
+  },
+  "homepage": "https://github.com/Alex1287/server-express#readme",
   "description": ""
 }
